@@ -6,7 +6,7 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/itsyogieu/PYRO-RENAME-BOT",
+    "repository": "https://github.com/Rajasekar811/PYRO-RENAME-BOT",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
